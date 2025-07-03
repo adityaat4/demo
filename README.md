@@ -1,3 +1,3 @@
 This is my first repository.
 <br>
-Author-Aditya Tiwari  
+Author-Aditya Tiwari (pandit) 
